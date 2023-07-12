@@ -96,7 +96,7 @@ body{
 }
 
 .glitch{
-  font-size: 56px;
+  font-size: 26px;
   color: #ffffff;
   animation: glitch 1165ms infinite;
   font-weight: 700;
@@ -109,7 +109,7 @@ body{
 }
 
 .glitch2{
-  font-size: 20px;
+  font-size: 12px;
   color: #ffffff;
   animation: glitch 1165ms infinite;
   font-weight: 700;
